@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rusumnagamani
+- 👋 Hi, I’m @rusumnagamani,3rd btech branch of electronics and communication,
 - 👀 I’m interested in learning new things and exploration
 - 🌱 I’m currently learning Currently learning Python and basics of java programming through online coursework and personal projects.
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on python related IOT Projects
 - 📫 How to reach me nagamanirusum@gmail.com
 
 <!---
